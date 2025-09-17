@@ -1,5 +1,6 @@
 # Supervised-Classification
-##🔹 Supervised Classification Project (Your Version)
+🔹 Supervised Classification Project
+
 ### 1. Objective
 
 The goal was to build a machine learning model that can classify flowers into categories (e.g., Setosa, Versicolor, Virginica) based on their sepal and petal measurements.
